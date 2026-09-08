@@ -24,7 +24,7 @@ int main() {
         if (a == b && b == c) {
             printf("Triangulo equilatero.\n");
         }
-        else if (a != b && b != c) {
+        else if (a != b && b != c && a != c) {
             printf("Triangulo escaleno.\n");
         }
         else {
