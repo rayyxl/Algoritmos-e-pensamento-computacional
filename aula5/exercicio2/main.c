@@ -11,7 +11,7 @@ int main() {
 
     float total = 0;
 
-    while (true) {
+    while (1) {
         int opcao;
         printf("Escolha uma opção:\n");
         printf("1. Adicionar R$0,50\n");
